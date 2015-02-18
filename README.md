@@ -1,6 +1,6 @@
 # Mi Health
 
-###### Forgot your health card? Fear no more, we're here to save your life and your time. #plzdontkill.me
+###### Forgot your health card? Fear no more, we're here to save your life and your time. #plzdontkillme
 
 ### Video Demo
 https://www.youtube.com/watch?v=9Qa7UmTFM2g

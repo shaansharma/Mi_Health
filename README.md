@@ -3,7 +3,8 @@
 ###### Forgot your health card? Fear no more, we're here to save your life and your time. #plzdontkillme
 
 ### Video Demo
-https://www.youtube.com/watch?v=9Qa7UmTFM2g
+<a href="https://www.youtube.com/watch?v=9Qa7UmTFM2g" target="_blank"><img src="http://img.youtube.com/vi/9Qa7UmTFM2g/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ### More Info
 http://challengepost.com/software/mi-health
 
